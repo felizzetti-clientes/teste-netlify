@@ -1,0 +1,28 @@
+# TRG Fitness
+
+> Fabricante brasileira de equipamentos de musculação e cardiovasculares,
+> com produção 100% nacional há 28 anos, sediada em Blumenau, Santa Catarina.
+
+TRG Fitness projeta e fabrica linhas de equipamentos para academias,
+condomínios, hotéis, clubes e residências, com fábrica própria e frota
+própria de distribuição.
+
+## Linhas de produtos
+- [Evoque](/produtos/evoque): design e durabilidade consolidados no mercado nacional
+- [Infinity](/produtos/infinity): design, desempenho, resistência e biomecânica
+- [E-Line](/produtos/e-line): linha 100% nacional para academias de todos os portes
+- [Premium](/produtos/premium): multifuncionais para academias, condomínios, hotéis e clubes
+- [Cardio](/produtos/cardio): esteiras, bikes e elípticos de alta performance
+
+## Páginas principais
+- [Empresa](/empresa): história, fabricação nacional e frota própria
+- [Produtos](/produtos): catálogo de linhas de equipamentos
+- [Condomínios / Hotéis](/condominios): projetos por metragem de espaço fitness
+- [Clientes](/clientes): presença nacional
+- [Assistência Técnica](/assistencia-tecnica): rede de parceiros técnicos
+- [Catálogo](/catalogo): solicitação de catálogo completo
+- [Blog](/blog): notícias e lançamentos
+- [Contato](/contato) / [Orçamento](/orcamento): fale com o time comercial
+
+## Loja
+A loja virtual é um site separado: https://loja.trgfitness.com.br/
